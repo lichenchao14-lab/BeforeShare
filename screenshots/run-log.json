@@ -1,0 +1,35 @@
+{
+  "high": {
+    "verdict": "高危",
+    "hasAnatomy": true,
+    "hasForesight": true,
+    "hasCard": true,
+    "hasActions": true,
+    "evidenceCount": null
+  },
+  "normal": {
+    "verdict": "未见异常（信息不足，请通过官方渠道再次核实）",
+    "hasAnatomy": true,
+    "hasForesight": false,
+    "hasCard": true,
+    "hasActions": true,
+    "evidenceCount": null
+  },
+  "unknown": {
+    "verdict": "存疑，需人工核实",
+    "hasAnatomy": true,
+    "hasForesight": false,
+    "hasCard": true,
+    "hasActions": true,
+    "evidenceCount": null
+  },
+  "highMobile": {
+    "verdict": "高危",
+    "hasAnatomy": true,
+    "hasForesight": true,
+    "hasCard": true,
+    "hasActions": true,
+    "evidenceCount": null
+  },
+  "shareUrlLength": 2819
+}

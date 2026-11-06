@@ -1,0 +1,58 @@
+{
+  "pass": true,
+  "shareUrlLength": 2819,
+  "pageErrors": [],
+  "results": [
+    {
+      "device": "360",
+      "innerWidth": 360,
+      "scrollWidth": 360,
+      "overflowX": 0,
+      "cardWidth": 328,
+      "cardLeft": 16,
+      "cardRight": 344,
+      "conclusionVisible": true,
+      "conclusionFontSize": "27px",
+      "clippedTexts": [],
+      "exportedPng": {
+        "width": 1500,
+        "height": 1638
+      },
+      "downloadedFile": "提醒卡-2026-10-26.png"
+    },
+    {
+      "device": "390",
+      "innerWidth": 390,
+      "scrollWidth": 390,
+      "overflowX": 0,
+      "cardWidth": 358,
+      "cardLeft": 16,
+      "cardRight": 374,
+      "conclusionVisible": true,
+      "conclusionFontSize": "27px",
+      "clippedTexts": [],
+      "exportedPng": {
+        "width": 1500,
+        "height": 1638
+      },
+      "downloadedFile": "提醒卡-2026-10-26.png"
+    },
+    {
+      "device": "430",
+      "innerWidth": 430,
+      "scrollWidth": 430,
+      "overflowX": 0,
+      "cardWidth": 398,
+      "cardLeft": 16,
+      "cardRight": 414,
+      "conclusionVisible": true,
+      "conclusionFontSize": "27px",
+      "clippedTexts": [],
+      "exportedPng": {
+        "width": 1500,
+        "height": 1638
+      },
+      "downloadedFile": "提醒卡-2026-10-26.png"
+    }
+  ]
+}

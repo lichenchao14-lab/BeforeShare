@@ -1,0 +1,42 @@
+# ===== 依赖 =====
+node_modules/
+
+# ===== 构建产物 =====
+.next/
+out/
+dist/
+*.tsbuildinfo
+
+# ===== 环境变量与密钥（绝不入库）=====
+.env.local
+.env*.local
+.env
+*.key
+!*.pub.key
+
+# ===== 日志与临时文件 =====
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# ===== 编辑器 / 工具链 =====
+.trae/
+.idea/
+.vscode/
+.zcode/
+
+# ===== 截图工作目录（screenshots/ 是正式素材，保留入库）=====
+.screenshots/
+
+# ===== 对比实验产物（原始作者刻意不入库）=====
+.spike/
+
+# ===== 自动生成 =====
+next-env.d.ts
+
+# ===== 大体积二进制（论文/交付压缩包走网盘，不入库）=====
+*.zip
+
+# ===== 内部规格文档 =====
+openspec/
